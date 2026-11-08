@@ -360,6 +360,7 @@ For your investigation reports and detection engineering practice:
 - Keep your ATT&CK mappings aligned with the current version.
 - Review the 20.0 to 20.1 changelog before updating existing mappings.
 - Use detection strategies to identify the telemetry required for each technique.
+  
 **Source:** MITRE ATT&CK changelog and ATT&CK v20.1 release.
 
 # 7. Analyst's weekly priorities
@@ -375,19 +376,10 @@ For your investigation reports and detection engineering practice:
 | Medium | Update MITRE ATT&CK mappings | Maintain accurate investigation documentation |
 | Medium | Review Splunk security advisories | Keep SIEM infrastructure protected |
 
-
 # Final takeaway
 
 The most important lesson this week is the growing use of automation and AI-assisted tooling in intrusion operations.
 
 The Microsoft investigations show how quickly attackers can move from exposed credentials to cloud resource access. The financial-sector warnings also demonstrate why application identities and payment APIs require careful monitoring.
 
-For a developing Tier 1 SOC analyst, I recommend making this week's main study topic:
-
-**Application credential compromise and cloud identity abuse.**
-
-Focus on recognizing suspicious service-principal sign-ins, understanding OAuth application permissions and investigating unexpected access to Azure Key Vault.
-
-These skills will strengthen your identity investigation and cloud threat-hunting capabilities.
-
-**Overall assessment:** This was an active week with confirmed exploitation of multiple vulnerabilities and significant new threat intelligence. Prioritize the SonicWall, WordPress and cloud identity developments in your next investigation practice.
+**Overall assessment:** This was an active week with confirmed exploitation of multiple vulnerabilities and significant new threat intelligence.
