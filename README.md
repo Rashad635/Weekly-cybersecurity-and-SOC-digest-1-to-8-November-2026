@@ -14,7 +14,7 @@ This was a busy week. Five developments deserve particular attention:
 - APT29-linked mobile watering-hole attacks were disclosed, involving previously patched iOS and Android vulnerabilities.
 - A cyberattack disrupted temperature-control systems at French blood-storage facilities.
 
-## 1. Critical vulnerabilities and CISA KEV updates
+# 1. Critical vulnerabilities and CISA KEV updates
 
 **Priority:** Critical
 
@@ -29,7 +29,7 @@ A review of the KEV catalogue on 8 November identified three additions during th
 
 **Source:** CISA Known Exploited Vulnerabilities catalogue.
 
-# 1.1 WordPress Core vulnerability
+## 1.1 WordPress Core vulnerability
 **CVE-2026-119977 | 3 November 2026**
 
 CISA added a WordPress Core vulnerability involving a time-of-check to time-of-use (TOCTOU) race condition.
