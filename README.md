@@ -127,7 +127,7 @@ The attackers reportedly use automation to identify vulnerabilities and abuse pa
 
 CERT-In also warned that attackers target weekends and holidays when security monitoring may be reduced. Some organizations reportedly experienced renewed attacks after incomplete remediation.
 
-Importantly, CERT-In did not attribute the campaign to a particular state or identify the affected organizations publicly. Reuters
+Importantly, CERT-In did not attribute the campaign to a particular state or identify the affected organizations publicly.
 
 **Why it matters to a SOC analyst**
 
@@ -198,7 +198,7 @@ Investigate:
 - Unusual Microsoft Graph API requests.
 - Unexpected Azure Storage downloads.
 
-Microsoft recommends revoking or rotating exposed credentials. Removing a secret from GitHub does not invalidate it. Microsoft
+Microsoft recommends revoking or rotating exposed credentials. Removing a secret from GitHub does not invalidate it.
 
 **Source:** Microsoft investigation of agentic AI credential abuse.
 
@@ -247,7 +247,7 @@ Ukraine's air force suspected hostile interference, while Russia also reported u
 
 The Ukrainian application was temporarily suspended.
 
-Reuters could not independently verify which groups were responsible. Reuters
+Reuters could not independently verify which groups were responsible.
 
 **SOC lesson**
 
@@ -325,7 +325,7 @@ Important findings:
 - September security exceptions overrode protections for 63% of messages with recorded security outcomes in the relevant spoofing analysis.
 - Credential theft remained the dominant objective of malicious attachment campaigns.
   
-Microsoft also reported renewed CAPTCHA-gated phishing activity and increased use of SVG attachments. Microsoft
+Microsoft also reported renewed CAPTCHA-gated phishing activity and increased use of SVG attachments.
 
 **Why it matters to a Tier 1 SOC analyst**
 
