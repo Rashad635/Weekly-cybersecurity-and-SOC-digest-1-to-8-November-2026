@@ -1,7 +1,8 @@
 # Weekly cybersecurity and SOC intelligence digest
-## Reporting period: 1-8 November 2026
 
-# Focus: Threat intelligence, vulnerability management, incident response, Splunk, Microsoft Defender XDR and MITRE ATT&CK.
+**Reporting period:** 1-8 November 2026
+
+**Focus:** Threat intelligence, vulnerability management, incident response, Splunk, Microsoft Defender XDR and MITRE ATT&CK.
 
 # Executive summary
 
