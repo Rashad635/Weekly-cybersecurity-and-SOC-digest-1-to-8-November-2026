@@ -1,0 +1,1 @@
+# Weekly-cybersecurity-and-SOC-digest-1-to-8-November-2026
